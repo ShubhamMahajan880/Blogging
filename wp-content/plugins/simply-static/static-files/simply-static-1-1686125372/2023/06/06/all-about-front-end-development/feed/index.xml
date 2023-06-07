@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: All About Front End Development	</title>
+	<atom:link href="/2023/06/06/all-about-front-end-development/feed/" rel="self" type="application/rss+xml" />
+	<link>/2023/06/06/all-about-front-end-development/</link>
+	<description>Let&#039;s be Technical Tricky with Shubham</description>
+	<lastBuildDate>Tue, 06 Jun 2023 21:04:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>
+		By: Dhananjay Kumrawat		</title>
+		<link>/2023/06/06/all-about-front-end-development/#comment-2</link>
+
+		<dc:creator><![CDATA[Dhananjay Kumrawat]]></dc:creator>
+		<pubDate>Tue, 06 Jun 2023 17:54:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=10#comment-2</guid>
+
+					<description><![CDATA[I like your blogs because these are being too helpful for us.]]></description>
+			<content:encoded><![CDATA[<p>I like your blogs because these are being too helpful for us.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
